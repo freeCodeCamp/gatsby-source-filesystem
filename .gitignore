@@ -1,0 +1,7 @@
+/*.js
+!jest-transformer.js
+!jest.config.js
+yarn.lock
+node_modules
+!src/__tests__/fixtures/test-fs
+!src/__tests__/fixtures/test-fs/node_modules
