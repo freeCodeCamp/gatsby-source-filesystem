@@ -43,7 +43,7 @@ module.exports = {
 
 ## How to query
 
-You can query file nodes like the following:
+You can query file nodes like the following code snippet:
 
 ```graphql
 {
